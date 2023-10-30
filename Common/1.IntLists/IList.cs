@@ -8,6 +8,7 @@ namespace Common
 {
     public interface IList
     {
+
         string AsString();
 
         int Count();
